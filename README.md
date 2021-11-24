@@ -1,4 +1,2 @@
 # IMMFinal
-Final alpha
-
-Probably
+A side-scrolling game
