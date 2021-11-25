@@ -10,12 +10,17 @@ public class PlayerController : MonoBehaviour
     private Rigidbody playerRb;
     public float jumpForce = 8;
     public bool gameOver;
+    public AudioClip jumpSound;
+    public AudioClip deathSound;
+    private AudioSource playerAudio;
+
    // public float gravModifier;
 
     // Start is called before the first frame update
     void Start()
     {
         playerRb = GetComponent<Rigidbody>();
+        playerAudio = GetComponent<AudioSource>();
        // Physics.gravity *= gravModifier;
         
    
@@ -34,6 +39,7 @@ public class PlayerController : MonoBehaviour
         {
             playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isOnGround = false;
+            playerAudio.PlayOneShot(jumpSound, 1.0f);
 
         }
     }
@@ -48,6 +54,7 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("Game Over");
             gameOver = true;
+            playerAudio.PlayOneShot(deathSound);
         }
     }
 }
