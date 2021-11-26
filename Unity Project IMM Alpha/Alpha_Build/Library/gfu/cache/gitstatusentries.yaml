@@ -13,53 +13,54 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-26T12:15:01.952+00:00
-  initializedAtString: 2021-11-26T12:14:50.887+00:00
+  lastUpdatedAtString: 2021-11-26T13:09:31.537+00:00
+  initializedAtString: 2021-11-26T13:08:26.301+00:00
   entries:
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
     projectPath: Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scenes\SampleScene.unity
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\expandedItems
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
