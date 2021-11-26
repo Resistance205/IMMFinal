@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float hI;
+    public float horizontalInput;
     public float moveSpeed = 10.0f;
     public bool isOnGround = true;
     private Rigidbody playerRb;
@@ -31,8 +31,8 @@ public class PlayerController : MonoBehaviour
     {
         if (!gameOver)
         {
-            hI = Input.GetAxis("Horizontal");
-            transform.Translate(Vector3.right * hI * Time.deltaTime * moveSpeed);
+            horizontalInput = Input.GetAxis("Horizontal");
+            transform.Translate(Vector3.right * horizontalInput * Time.deltaTime * moveSpeed);
         }
 
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround && !gameOver)
@@ -55,6 +55,12 @@ public class PlayerController : MonoBehaviour
             Debug.Log("Game Over");
             gameOver = true;
             playerAudio.PlayOneShot(deathSound);
+        }
+        else if (collision.gameObject.CompareTag("Win"))
+        {
+            Debug.Log("You won!");
+            gameOver = true;
+           // playerAudio.PlayOneShot(deathSound);
         }
     }
 }

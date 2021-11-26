@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Lava
   - Ground
+  - Win
   layers:
   - Default
   - TransparentFX
