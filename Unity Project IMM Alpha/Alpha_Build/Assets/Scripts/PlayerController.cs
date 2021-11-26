@@ -12,18 +12,19 @@ public class PlayerController : MonoBehaviour
     public bool gameOver;
     public AudioClip jumpSound;
     public AudioClip deathSound;
+    public AudioClip winSound;
     private AudioSource playerAudio;
 
-   // public float gravModifier;
+    // public float gravModifier;
 
     // Start is called before the first frame update
     void Start()
     {
         playerRb = GetComponent<Rigidbody>();
         playerAudio = GetComponent<AudioSource>();
-       // Physics.gravity *= gravModifier;
-        
-   
+        // Physics.gravity *= gravModifier;
+
+
     }
 
     // Update is called once per frame
@@ -50,7 +51,8 @@ public class PlayerController : MonoBehaviour
         {
             isOnGround = true;
 
-        }else if (collision.gameObject.CompareTag("Lava"))
+        }
+        else if (collision.gameObject.CompareTag("Lava"))
         {
             Debug.Log("Game Over");
             gameOver = true;
@@ -60,7 +62,7 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("You won!");
             gameOver = true;
-           // playerAudio.PlayOneShot(deathSound);
+            playerAudio.PlayOneShot(winSound);
         }
     }
 }
