@@ -13,34 +13,90 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-26T15:15:40.764+00:00
-  initializedAtString: 2021-11-26T14:34:31.238+00:00
+  lastUpdatedAtString: 2021-11-26T15:34:55.467+00:00
+  initializedAtString: 2021-11-26T15:31:43.077+00:00
   entries:
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
     projectPath: Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs
+    projectPath: Assets\PlayerScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs.meta
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs.meta
+    projectPath: Assets\PlayerScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs
+    projectPath: Assets\Scripts\PlayerController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs.meta
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs.meta
+    projectPath: Assets\Scripts\PlayerController.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav
+    projectPath: Assets\SFX\YOUWIN.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav.meta
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav.meta
+    projectPath: Assets\SFX\YOUWIN.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
