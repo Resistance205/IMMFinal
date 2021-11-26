@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-26T13:09:31.537+00:00
-  initializedAtString: 2021-11-26T13:08:26.301+00:00
+  lastUpdatedAtString: 2021-11-26T13:17:12.570+00:00
+  initializedAtString: 2021-11-26T13:16:39.316+00:00
   entries:
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
@@ -27,13 +27,6 @@ MonoBehaviour:
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scenes\SampleScene.unity
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
