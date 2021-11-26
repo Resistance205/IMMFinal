@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< Updated upstream
 <<<<<<< HEAD
   lastUpdatedAtString: 2021-11-26T15:51:34.012+00:00
   initializedAtString: 2021-11-26T15:51:34.012+00:00
@@ -21,10 +20,6 @@ MonoBehaviour:
   lastUpdatedAtString: 2021-11-26T15:33:14.714+00:00
   initializedAtString: 2021-11-26T15:31:42.623+00:00
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-  lastUpdatedAtString: 2021-11-26T15:33:14.714+00:00
-  initializedAtString: 2021-11-26T15:31:42.623+00:00
->>>>>>> Stashed changes
   currentGitRemote:
     name: origin
     url: https://github.com/Resistance205/IMMFinal.git

@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-<<<<<<< Updated upstream
 <<<<<<< HEAD
   lastUpdatedAtString: 2021-11-26T16:03:03.811+00:00
   initializedAtString: 2021-11-26T15:51:36.396+00:00
@@ -21,10 +20,6 @@ MonoBehaviour:
   lastUpdatedAtString: 2021-11-26T15:34:55.467+00:00
   initializedAtString: 2021-11-26T15:31:43.077+00:00
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-  lastUpdatedAtString: 2021-11-26T15:34:55.467+00:00
-  initializedAtString: 2021-11-26T15:31:43.077+00:00
->>>>>>> Stashed changes
   entries:
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
@@ -39,36 +34,27 @@ MonoBehaviour:
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs
-<<<<<<< Updated upstream
 <<<<<<< HEAD
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Assets\PlayerScript.cs
 =======
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs
->>>>>>> Stashed changes
     projectPath: Assets\PlayerScript.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs.meta
-<<<<<<< Updated upstream
 <<<<<<< HEAD
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Assets\PlayerScript.cs.meta
 =======
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs.meta
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\PlayerScript.cs.meta
->>>>>>> Stashed changes
     projectPath: Assets\PlayerScript.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-<<<<<<< Updated upstream
 <<<<<<< HEAD
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Prefabs\Enemy (1).prefab
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
@@ -96,8 +82,6 @@ MonoBehaviour:
       IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs
     projectPath: Assets\Scripts\PlayerController.cs
 =======
-=======
->>>>>>> Stashed changes
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs
     projectPath: Assets\Scripts\PlayerController.cs
@@ -107,74 +91,54 @@ MonoBehaviour:
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs.meta
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs.meta
     projectPath: Assets\Scripts\PlayerController.cs.meta
-<<<<<<< Updated upstream
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
->>>>>>> Stashed changes
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav
-<<<<<<< Updated upstream
 <<<<<<< HEAD
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav
 =======
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav
->>>>>>> Stashed changes
     projectPath: Assets\SFX\YOUWIN.wav
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav.meta
-<<<<<<< Updated upstream
 <<<<<<< HEAD
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav.meta
 =======
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav.meta
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\SFX\YOUWIN.wav.meta
->>>>>>> Stashed changes
     projectPath: Assets\SFX\YOUWIN.wav.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
-<<<<<<< Updated upstream
 <<<<<<< HEAD
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Library\ArtifactDB
 =======
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
->>>>>>> Stashed changes
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
-<<<<<<< Updated upstream
 <<<<<<< HEAD
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
 =======
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
->>>>>>> Stashed changes
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< Updated upstream
 <<<<<<< HEAD
   - path: Unity Project IMM Alpha\Alpha_Build\Library\EditorSnapSettings.asset
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
@@ -190,10 +154,6 @@ MonoBehaviour:
   - path: Unity Project IMM Alpha\Alpha_Build\Library\EditorUserBuildSettings.asset
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\EditorUserBuildSettings.asset
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\EditorUserBuildSettings.asset
->>>>>>> Stashed changes
     projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     indexStatus: 0
@@ -211,21 +171,16 @@ MonoBehaviour:
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
-<<<<<<< Updated upstream
 <<<<<<< HEAD
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
 =======
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
->>>>>>> Stashed changes
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< Updated upstream
 <<<<<<< HEAD
   - path: Unity Project IMM Alpha\Alpha_Build\Library\InspectorExpandedItems.asset
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
@@ -236,5 +191,3 @@ MonoBehaviour:
     workTreeStatus: 3
 =======
 >>>>>>> 0f2d8a882ea29a8a549f1a0025c8a50727240d27
-=======
->>>>>>> Stashed changes
