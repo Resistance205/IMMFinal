@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-25T17:10:14.876+00:00
-  initializedAtString: 2021-11-25T17:01:31.722+00:00
+  lastUpdatedAtString: 2021-11-26T12:15:01.952+00:00
+  initializedAtString: 2021-11-26T12:14:50.887+00:00
   entries:
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
@@ -28,306 +28,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scenes\SampleScene.unity
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\00\004073a1e5391b5c9370c1c915e08895
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\00\004073a1e5391b5c9370c1c915e08895
-    projectPath: Library\Artifacts\00\004073a1e5391b5c9370c1c915e08895
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\0d\0d6069012916e64a6b71ebfa6cada842
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\0d\0d6069012916e64a6b71ebfa6cada842
-    projectPath: Library\Artifacts\0d\0d6069012916e64a6b71ebfa6cada842
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\expandedItems
+    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\expandedItems
+    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\0e\0e74e4c34930f5ea4fe6a7aa6988deca
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\0e\0e74e4c34930f5ea4fe6a7aa6988deca
-    projectPath: Library\Artifacts\0e\0e74e4c34930f5ea4fe6a7aa6988deca
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\12\122db3fd6726f74870422e3649eb55af
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\12\122db3fd6726f74870422e3649eb55af
-    projectPath: Library\Artifacts\12\122db3fd6726f74870422e3649eb55af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\14\14846a6626aa7e516630d32ee6afa27c
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\14\14846a6626aa7e516630d32ee6afa27c
-    projectPath: Library\Artifacts\14\14846a6626aa7e516630d32ee6afa27c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\14\148a1ba08df7bc97695f823ad2cf80ff
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\14\148a1ba08df7bc97695f823ad2cf80ff
-    projectPath: Library\Artifacts\14\148a1ba08df7bc97695f823ad2cf80ff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\18\18daeab82c689f0b6e3f143062536688
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\18\18daeab82c689f0b6e3f143062536688
-    projectPath: Library\Artifacts\18\18daeab82c689f0b6e3f143062536688
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\19\198bd83fc3c0cceb16a9bd01ead5513e
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\19\198bd83fc3c0cceb16a9bd01ead5513e
-    projectPath: Library\Artifacts\19\198bd83fc3c0cceb16a9bd01ead5513e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\1b\1b878c9b1565cc90cd3230bc0080ce07
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\1b\1b878c9b1565cc90cd3230bc0080ce07
-    projectPath: Library\Artifacts\1b\1b878c9b1565cc90cd3230bc0080ce07
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\1c\1c4741e8c107ffc2eb0652c4bb6ff460
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\1c\1c4741e8c107ffc2eb0652c4bb6ff460
-    projectPath: Library\Artifacts\1c\1c4741e8c107ffc2eb0652c4bb6ff460
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\24\24255cb5669b5f43911c2d1310cfee00
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\24\24255cb5669b5f43911c2d1310cfee00
-    projectPath: Library\Artifacts\24\24255cb5669b5f43911c2d1310cfee00
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\26\260f11c30af5d68aee5d6e6d6a73c95a
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\26\260f11c30af5d68aee5d6e6d6a73c95a
-    projectPath: Library\Artifacts\26\260f11c30af5d68aee5d6e6d6a73c95a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\26\2653bbb0a10b2d998ed811d1661f0a68
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\26\2653bbb0a10b2d998ed811d1661f0a68
-    projectPath: Library\Artifacts\26\2653bbb0a10b2d998ed811d1661f0a68
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\32\32751123395b9276c12310081a59cd85
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\32\32751123395b9276c12310081a59cd85
-    projectPath: Library\Artifacts\32\32751123395b9276c12310081a59cd85
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\3e\3e9125da513a39566ed5978415b692de
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\3e\3e9125da513a39566ed5978415b692de
-    projectPath: Library\Artifacts\3e\3e9125da513a39566ed5978415b692de
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\41\4180d7aeae15b8d407af072575cf380f
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\41\4180d7aeae15b8d407af072575cf380f
-    projectPath: Library\Artifacts\41\4180d7aeae15b8d407af072575cf380f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\4f\4f7c4ac5e729af681bd762ad3f06286a
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\4f\4f7c4ac5e729af681bd762ad3f06286a
-    projectPath: Library\Artifacts\4f\4f7c4ac5e729af681bd762ad3f06286a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\51\51829c76260b389189559d9aeebd5c60
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\51\51829c76260b389189559d9aeebd5c60
-    projectPath: Library\Artifacts\51\51829c76260b389189559d9aeebd5c60
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\53\53caddc95f58bbe17620e0af48d9c221
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\53\53caddc95f58bbe17620e0af48d9c221
-    projectPath: Library\Artifacts\53\53caddc95f58bbe17620e0af48d9c221
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\54\54b92fae7a4360fe7764834dcb57171d
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\54\54b92fae7a4360fe7764834dcb57171d
-    projectPath: Library\Artifacts\54\54b92fae7a4360fe7764834dcb57171d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\55\558bf80af82d28d6a0c3cfe84fd2c02b
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\55\558bf80af82d28d6a0c3cfe84fd2c02b
-    projectPath: Library\Artifacts\55\558bf80af82d28d6a0c3cfe84fd2c02b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\60\60119139553b4ff45e43ea1898512bd0
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\60\60119139553b4ff45e43ea1898512bd0
-    projectPath: Library\Artifacts\60\60119139553b4ff45e43ea1898512bd0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\65\65cdd274c95f336f405f0dda200d3989
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\65\65cdd274c95f336f405f0dda200d3989
-    projectPath: Library\Artifacts\65\65cdd274c95f336f405f0dda200d3989
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\67\678a8cb2eec12b7afe23282a9a47b0f6
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\67\678a8cb2eec12b7afe23282a9a47b0f6
-    projectPath: Library\Artifacts\67\678a8cb2eec12b7afe23282a9a47b0f6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\69\692bfc814d4f481addef9f0818aaba06
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\69\692bfc814d4f481addef9f0818aaba06
-    projectPath: Library\Artifacts\69\692bfc814d4f481addef9f0818aaba06
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\6e\6e0d55517bc773db5a901c1159cf892f
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\6e\6e0d55517bc773db5a901c1159cf892f
-    projectPath: Library\Artifacts\6e\6e0d55517bc773db5a901c1159cf892f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\6f\6f8a7fd40b8e346831a43df2f8e83bfc
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\6f\6f8a7fd40b8e346831a43df2f8e83bfc
-    projectPath: Library\Artifacts\6f\6f8a7fd40b8e346831a43df2f8e83bfc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\72\721be9109add3e1fe45009c363a754cf
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\72\721be9109add3e1fe45009c363a754cf
-    projectPath: Library\Artifacts\72\721be9109add3e1fe45009c363a754cf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\77\77765eea5c618a8935ab8a8e5283a492
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\77\77765eea5c618a8935ab8a8e5283a492
-    projectPath: Library\Artifacts\77\77765eea5c618a8935ab8a8e5283a492
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\77\77937b741fdc34dca6a1479d330a451a
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\77\77937b741fdc34dca6a1479d330a451a
-    projectPath: Library\Artifacts\77\77937b741fdc34dca6a1479d330a451a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\82\828260d0c5fdc44d59086a81e7274d47
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\82\828260d0c5fdc44d59086a81e7274d47
-    projectPath: Library\Artifacts\82\828260d0c5fdc44d59086a81e7274d47
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\84\84b1ed20d548708d7d54938c5892b5e0
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\84\84b1ed20d548708d7d54938c5892b5e0
-    projectPath: Library\Artifacts\84\84b1ed20d548708d7d54938c5892b5e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\85\851dfed6b4c9ef100dca04ff8665cf28
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\85\851dfed6b4c9ef100dca04ff8665cf28
-    projectPath: Library\Artifacts\85\851dfed6b4c9ef100dca04ff8665cf28
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\8a\8ae9640e21065967d83cb0c53e87982d
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\8a\8ae9640e21065967d83cb0c53e87982d
-    projectPath: Library\Artifacts\8a\8ae9640e21065967d83cb0c53e87982d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\8d\8df5ef8d348812020fe7fcfaf6466793
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\8d\8df5ef8d348812020fe7fcfaf6466793
-    projectPath: Library\Artifacts\8d\8df5ef8d348812020fe7fcfaf6466793
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\a0\a0851e2b7a4d6f7d4bf957f55400334e
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\a0\a0851e2b7a4d6f7d4bf957f55400334e
-    projectPath: Library\Artifacts\a0\a0851e2b7a4d6f7d4bf957f55400334e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\be\be712be237bce521ff575cfe589495cb
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\be\be712be237bce521ff575cfe589495cb
-    projectPath: Library\Artifacts\be\be712be237bce521ff575cfe589495cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\c0\c01677366f1a96458f3e3bdaf44b6ac2
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\c0\c01677366f1a96458f3e3bdaf44b6ac2
-    projectPath: Library\Artifacts\c0\c01677366f1a96458f3e3bdaf44b6ac2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\d8\d829d93bf72af3f64240abecca20ccde
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\d8\d829d93bf72af3f64240abecca20ccde
-    projectPath: Library\Artifacts\d8\d829d93bf72af3f64240abecca20ccde
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\d9\d97c95129a404a60438fc4d4d605185b
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\d9\d97c95129a404a60438fc4d4d605185b
-    projectPath: Library\Artifacts\d9\d97c95129a404a60438fc4d4d605185b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\dd\dd06533a137c3d4791075dd5ddcf654c
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\dd\dd06533a137c3d4791075dd5ddcf654c
-    projectPath: Library\Artifacts\dd\dd06533a137c3d4791075dd5ddcf654c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\e0\e0e49ff904ec3a84452b19c568ef687c
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\e0\e0e49ff904ec3a84452b19c568ef687c
-    projectPath: Library\Artifacts\e0\e0e49ff904ec3a84452b19c568ef687c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\e5\e581a333b7edd40232cdaf6ca1330db3
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\e5\e581a333b7edd40232cdaf6ca1330db3
-    projectPath: Library\Artifacts\e5\e581a333b7edd40232cdaf6ca1330db3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\ed\ed33f11d1d9d34c7fc8ad9553026467f
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\ed\ed33f11d1d9d34c7fc8ad9553026467f
-    projectPath: Library\Artifacts\ed\ed33f11d1d9d34c7fc8ad9553026467f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f2\f2979b8d9f87140f36fdd803927e9293
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f2\f2979b8d9f87140f36fdd803927e9293
-    projectPath: Library\Artifacts\f2\f2979b8d9f87140f36fdd803927e9293
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f2\f2ee301272abd325b4ffafa9ca99e7a7
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f2\f2ee301272abd325b4ffafa9ca99e7a7
-    projectPath: Library\Artifacts\f2\f2ee301272abd325b4ffafa9ca99e7a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f7\f7e21d295a3073e52050623af5363c43
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f7\f7e21d295a3073e52050623af5363c43
-    projectPath: Library\Artifacts\f7\f7e21d295a3073e52050623af5363c43
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f8\f86d73ed53f93f79e566cbeffa9b1cf6
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f8\f86d73ed53f93f79e566cbeffa9b1cf6
-    projectPath: Library\Artifacts\f8\f86d73ed53f93f79e566cbeffa9b1cf6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -343,12 +61,6 @@ MonoBehaviour:
   - path: Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\carpa\Documents\GitHub\IMMFinal\Unity Project IMM Alpha\Alpha_Build\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
