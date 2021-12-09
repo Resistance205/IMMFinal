@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-11-26T16:33:30.591+00:00
-  initializedAtString: 2021-11-26T16:33:30.591+00:00
+  lastUpdatedAtString: 2021-12-09T17:41:48.376+00:00
+  initializedAtString: 2021-12-09T17:41:48.376+00:00
   currentGitRemote:
     name: origin
     url: https://github.com/Resistance205/IMMFinal.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: Beta
+    tracking: 
   currentConfigBranch:
-    name: main
+    name: Beta
     remote:
-      name: origin
-      url: https://github.com/Resistance205/IMMFinal.git
-    trackingBranch: main
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/Resistance205/IMMFinal.git

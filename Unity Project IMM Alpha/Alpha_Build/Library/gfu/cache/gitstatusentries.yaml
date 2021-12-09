@@ -13,13 +13,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-26T16:52:54.255+00:00
-  initializedAtString: 2021-11-26T16:33:44.150+00:00
+  lastUpdatedAtString: 2021-11-27T16:46:56.578+00:00
+  initializedAtString: 2021-11-27T16:34:29.971+00:00
   entries:
   - path: Unity Project IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
       IMM Alpha\Alpha_Build\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scenes\SampleScene.unity
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Assets\Scripts\PlayerController.cs
+    projectPath: Assets\Scripts\PlayerController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -30,10 +51,206 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\Library\EditorUserBuildSettings.asset
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\07\07ae3167fecff84e14434703af2a30ce
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
+      IMM Alpha\Alpha_Build\Library\Artifacts\07\07ae3167fecff84e14434703af2a30ce
+    projectPath: Library\Artifacts\07\07ae3167fecff84e14434703af2a30ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\11\117100a04ae9b198c22db4dd4e84fc01
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\11\117100a04ae9b198c22db4dd4e84fc01
+    projectPath: Library\Artifacts\11\117100a04ae9b198c22db4dd4e84fc01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\2c\2c96353ea7164e22ea902c979e6f81ac
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\2c\2c96353ea7164e22ea902c979e6f81ac
+    projectPath: Library\Artifacts\2c\2c96353ea7164e22ea902c979e6f81ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\2e\2e87cd93c4b092a3bd57837c89eb0a3e
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\2e\2e87cd93c4b092a3bd57837c89eb0a3e
+    projectPath: Library\Artifacts\2e\2e87cd93c4b092a3bd57837c89eb0a3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\36\36958fbefc33181300fff4dbc551a542
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\36\36958fbefc33181300fff4dbc551a542
+    projectPath: Library\Artifacts\36\36958fbefc33181300fff4dbc551a542
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\4b\4b872925ab419d3a80ff3dc6f8d550b1
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\4b\4b872925ab419d3a80ff3dc6f8d550b1
+    projectPath: Library\Artifacts\4b\4b872925ab419d3a80ff3dc6f8d550b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\4b\4bf1ea1bd4467c21872f5d5e6adef203
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\4b\4bf1ea1bd4467c21872f5d5e6adef203
+    projectPath: Library\Artifacts\4b\4bf1ea1bd4467c21872f5d5e6adef203
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\65\65953019521f898828ad5105ab033767
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\65\65953019521f898828ad5105ab033767
+    projectPath: Library\Artifacts\65\65953019521f898828ad5105ab033767
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\68\68d4acd7ffe437c24113deb075005054
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\68\68d4acd7ffe437c24113deb075005054
+    projectPath: Library\Artifacts\68\68d4acd7ffe437c24113deb075005054
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\6e\6e5a9eb1cc041d82c0545585326e6d8d
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\6e\6e5a9eb1cc041d82c0545585326e6d8d
+    projectPath: Library\Artifacts\6e\6e5a9eb1cc041d82c0545585326e6d8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
+    projectPath: Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\94\943690d7ab82196d9dea25175719c43a
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\94\943690d7ab82196d9dea25175719c43a
+    projectPath: Library\Artifacts\94\943690d7ab82196d9dea25175719c43a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\97\9781ca7493eef68ff4bc92b40bade09c
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\97\9781ca7493eef68ff4bc92b40bade09c
+    projectPath: Library\Artifacts\97\9781ca7493eef68ff4bc92b40bade09c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\9e\9ecae4519e84ece9d9b0412518c17536
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\9e\9ecae4519e84ece9d9b0412518c17536
+    projectPath: Library\Artifacts\9e\9ecae4519e84ece9d9b0412518c17536
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\a4\a4782cdaac82c5e32e879fe82a4db5de
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\a4\a4782cdaac82c5e32e879fe82a4db5de
+    projectPath: Library\Artifacts\a4\a4782cdaac82c5e32e879fe82a4db5de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
+    projectPath: Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\b4\b45c0d9fb6ba1672edac86a876d4e6be
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\b4\b45c0d9fb6ba1672edac86a876d4e6be
+    projectPath: Library\Artifacts\b4\b45c0d9fb6ba1672edac86a876d4e6be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\bc\bc59b98d196b01b53dedaf5eb29bf3f3
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\bc\bc59b98d196b01b53dedaf5eb29bf3f3
+    projectPath: Library\Artifacts\bc\bc59b98d196b01b53dedaf5eb29bf3f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\bc\bceb301285f48326df3dcab7019e4a4f
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\bc\bceb301285f48326df3dcab7019e4a4f
+    projectPath: Library\Artifacts\bc\bceb301285f48326df3dcab7019e4a4f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\d7\d7d8666021d9155e833808e84ff239c9
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\d7\d7d8666021d9155e833808e84ff239c9
+    projectPath: Library\Artifacts\d7\d7d8666021d9155e833808e84ff239c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
+    projectPath: Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\e3\e3e30025b6f1ed27e0b746e4f6d495b3
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\e3\e3e30025b6f1ed27e0b746e4f6d495b3
+    projectPath: Library\Artifacts\e3\e3e30025b6f1ed27e0b746e4f6d495b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\e8\e8204a50b49e5ce8690753dffc89b923
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\e8\e8204a50b49e5ce8690753dffc89b923
+    projectPath: Library\Artifacts\e8\e8204a50b49e5ce8690753dffc89b923
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\ea\ea0c28e2cff46d13182423fcc815c932
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\ea\ea0c28e2cff46d13182423fcc815c932
+    projectPath: Library\Artifacts\ea\ea0c28e2cff46d13182423fcc815c932
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f1\f103203756058dd3a877365b702e8a86
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\f1\f103203756058dd3a877365b702e8a86
+    projectPath: Library\Artifacts\f1\f103203756058dd3a877365b702e8a86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
+    projectPath: Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\Artifacts\fd\fd80b35339b901c307256b585a40020b
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\Artifacts\fd\fd80b35339b901c307256b585a40020b
+    projectPath: Library\Artifacts\fd\fd80b35339b901c307256b585a40020b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\EditorOnlyScriptingSettings.json
+    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
+      IMM Alpha\Alpha_Build\Library\EditorOnlyScriptingSettings.json
+    projectPath: Library\EditorOnlyScriptingSettings.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -58,87 +275,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\ProjectSettings\EditorBuildSettings.asset
+  - path: Unity Project IMM Alpha\Alpha_Build\Library\InspectorExpandedItems.asset
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
+      IMM Alpha\Alpha_Build\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\index.html
+  - path: Unity Project IMM Alpha\Alpha_Build\Packages\manifest.json
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\index.html
-    projectPath: WebGL\index.html
+      IMM Alpha\Alpha_Build\Packages\manifest.json
+    projectPath: Packages\manifest.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\favicon.ico
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project IMM Alpha\Alpha_Build\Packages\packages-lock.json
     fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\favicon.ico
-    projectPath: WebGL\TemplateData\favicon.ico
+      IMM Alpha\Alpha_Build\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\fullscreen-button.png
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\fullscreen-button.png
-    projectPath: WebGL\TemplateData\fullscreen-button.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\progress-bar-empty-dark.png
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\progress-bar-empty-dark.png
-    projectPath: WebGL\TemplateData\progress-bar-empty-dark.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\progress-bar-empty-light.png
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\progress-bar-empty-light.png
-    projectPath: WebGL\TemplateData\progress-bar-empty-light.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\progress-bar-full-dark.png
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\progress-bar-full-dark.png
-    projectPath: WebGL\TemplateData\progress-bar-full-dark.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\progress-bar-full-light.png
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\progress-bar-full-light.png
-    projectPath: WebGL\TemplateData\progress-bar-full-light.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\style.css
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\style.css
-    projectPath: WebGL\TemplateData\style.css
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\unity-logo-dark.png
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\unity-logo-dark.png
-    projectPath: WebGL\TemplateData\unity-logo-dark.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\unity-logo-light.png
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\unity-logo-light.png
-    projectPath: WebGL\TemplateData\unity-logo-light.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity Project IMM Alpha\Alpha_Build\WebGL\TemplateData\webgl-logo.png
-    fullPath: D:\Unity\Training\Create with Code\Projects\IMMFinal\Unity Project
-      IMM Alpha\Alpha_Build\WebGL\TemplateData\webgl-logo.png
-    projectPath: WebGL\TemplateData\webgl-logo.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
