@@ -30,12 +30,17 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
+
+    }
+
+    void FixedUpdate()
+    {
         if (!gameOver)
         {
-            horizontalInput = Input.GetAxis("Horizontal");
-            transform.Translate(Vector3.right * horizontalInput * Time.deltaTime * moveSpeed);
+            Vector3 m_Input = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+            playerRb.MovePosition(transform.position + m_Input * Time.deltaTime * moveSpeed);
         }
-
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround && !gameOver)
         {
             playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
