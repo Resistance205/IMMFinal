@@ -1327,6 +1327,8 @@ MonoBehaviour:
   isOnGround: 1
   jumpForce: 12
   gameOver: 0
+  hasPowerup: 0
+  powerupAbility: {fileID: 0}
   jumpSound: {fileID: 8300000, guid: f34225e13b2e3e04cb1a546afa3caed4, type: 3}
   deathSound: {fileID: 8300000, guid: d1a4e1ba744996a41a46ca512353e9d5, type: 3}
   winSound: {fileID: 8300000, guid: ec1d4895975a3d1478846cb675e11f71, type: 3}
@@ -2350,7 +2352,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 21cd8574103cc50429c688b0fbfed62e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 88d19ad88fd8947428bd1a05e06c35a8, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
