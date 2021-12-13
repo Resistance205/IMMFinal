@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float horizontalInput;
+    public GameManager gameManager;
     public float moveSpeed = 10.0f;
     public bool isOnGround = true;
     private Rigidbody playerRb;
@@ -22,6 +23,7 @@ public class PlayerController : MonoBehaviour
     {
         playerRb = GetComponent<Rigidbody>();
         playerAudio = GetComponent<AudioSource>();
+        gameManager = GameObject.Find("gameManager").GetComponent<GameManager>();
 
 
 
@@ -62,6 +64,7 @@ public class PlayerController : MonoBehaviour
             Debug.Log("Game Over");
             gameOver = true;
             playerAudio.PlayOneShot(deathSound);
+            gameManager.GameOver(); // couldn't get this working, followed tutorial but it doesn't work
         }
         else if (collision.gameObject.CompareTag("Win"))
         {
