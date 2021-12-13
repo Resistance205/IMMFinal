@@ -20,4 +20,10 @@ public class MoveLeft : MonoBehaviour
     {
         transform.Translate(Vector3.left * Time.deltaTime * speed);
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Destroy(gameObject);
+        Destroy(other.gameObject);
+    }
 }

@@ -8,8 +8,15 @@ public class PlayerController : MonoBehaviour
     public float moveSpeed = 10.0f;
     public bool isOnGround = true;
     private Rigidbody playerRb;
+
     public float jumpForce = 8;
+
     public bool gameOver;
+
+    public bool hasPowerup = false;
+    public GameObject powerupAbility;
+
+
     public AudioClip jumpSound;
     public AudioClip deathSound;
     public AudioClip winSound;
@@ -36,6 +43,13 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            Instantiate(powerupAbility, transform.position, powerupAbility.transform.rotation);
+
+        }
+
         if (!gameOver)
         {
             Vector3 m_Input = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
@@ -49,6 +63,16 @@ public class PlayerController : MonoBehaviour
 
         }
     }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Powerup"))
+        {
+            hasPowerup = true;
+            Destroy(other.gameObject);
+        }
+
+    }
+
 
     private void OnCollisionEnter(Collision collision)
     {
