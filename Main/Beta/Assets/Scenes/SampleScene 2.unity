@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1034,6 +1034,9 @@ MonoBehaviour:
   isOnGround: 1
   jumpForce: 12
   gameOver: 0
+  hasPowerup: 0
+  powerupAbility: {fileID: 4663992289921924264, guid: 24c6596abaa270d4f85328982d0f091a,
+    type: 3}
   jumpSound: {fileID: 8300000, guid: f34225e13b2e3e04cb1a546afa3caed4, type: 3}
   deathSound: {fileID: 8300000, guid: d1a4e1ba744996a41a46ca512353e9d5, type: 3}
   winSound: {fileID: 8300000, guid: ec1d4895975a3d1478846cb675e11f71, type: 3}
