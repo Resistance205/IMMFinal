@@ -30,7 +30,21 @@ public class GameManager : MonoBehaviour
 
     public void RestartGame()
     {
-
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void FirstLevel()
+    {
+        SceneManager.LoadScene("Level1");
+    }
+
+    public void SecondLevel()
+    {
+        SceneManager.LoadScene("Level2");
+    }
+
+    public void ThirdLevel()
+    {
+        SceneManager.LoadScene("Level3");
     }
 }
